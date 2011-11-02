@@ -1,8 +1,8 @@
-=== Plugin Name ===
+=== MTC CKEditor Link Page ===
 Contributors: jwhyatt
 Tags: ckeditor page
 Requires at least: 2.8
-Tested up to: 2.1
+Tested up to: 3.2.1
 Stable tag: trunk
 
 This plugin adds a button to the CKEditor plugin's Link tool that allows you to select a WordPress page.
@@ -17,29 +17,14 @@ This plugin requires that you install the [CKEditor plugin](http://wordpress.cke
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
-
-== Frequently Asked Questions ==
-
-= A question that someone might have =
-
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
+1. Upload all of the files to the /wp-content/plugins/mtc-ckeditor-link-page/ folder
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. A new button will appear in the CKEditor Link tool.  Click on it
+4. Select the page you wish to link to
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
+1. The button
 
 == Changelog ==
 
