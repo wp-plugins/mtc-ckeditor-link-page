@@ -13,7 +13,7 @@
 						id: 'browseInternal',
 						label : 'Wordpress Page',
 						onClick: function() {
-							window.open("/wp-content/plugins/mtc_ckeditor_linkpage/pages.php");
+							window.open("/wp-content/plugins/mtc-ckeditor-link-page/pages.php");
 						}
 					});
 				}
