@@ -3,7 +3,7 @@ Contributors: jwhyatt
 Tags: ckeditor page
 Requires at least: 2.8
 Tested up to: 3.2.1
-Stable tag: trunk
+Stable tag: 1.0
 
 This plugin adds a button to the CKEditor plugin's Link tool that allows you to select a WordPress page.
 
